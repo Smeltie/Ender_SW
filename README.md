@@ -28,6 +28,12 @@ Various parts _can*_ be recycled from the Ender 3 Pro/V2, most important ones ar
 - DXF files in order to cut your enclosure panels.
 - A printer.cfg as a starting point (based off LDO motors and SKR E3 mini V2 board).
 
+
+## My Changes
+
+I've added a screw in fan mount instead of the default friction fit.
+![Home](Images/fanchange.png)
+
 ## Credits
 
 - Ofc to Triano for his awesome design and all the valuable help, info and support.
